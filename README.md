@@ -18,9 +18,9 @@ One of the fundamental aspects of working with SQL databases, particularly in My
 5. Run a query that returns the month, year, and day each employee came into the company
 6. Return a query that adds 10 years to the year the employees came into the company as their year_of_exit
 
-7. ![](No1.png)
+ ![](No1.png)
 
-8. The above snapshot demonstrates the effective renaming of the tables to 'Employee_Info' and 'Employee_Salary.' This was done through the use of the following syntax:
+The above snapshot demonstrates the effective renaming of the tables to 'Employee_Info' and 'Employee_Salary.' This was done through the use of the following syntax:
 
 _Use 'database name',
 Alter table Staff_info
